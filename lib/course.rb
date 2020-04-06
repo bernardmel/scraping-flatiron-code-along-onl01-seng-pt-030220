@@ -4,4 +4,5 @@ class Course
 
 end
 
+
 end
